@@ -1,0 +1,20 @@
+:root{
+
+    --bg-general:           #ffffff;
+
+    /*buttons*/             
+    --button-bg:            #E0E1E2;
+    --button-text:          rgba(0, 0, 0, 0.6);
+
+    --button-bg-hover:      #CACBCD;
+    --button-text-hover:    rgba(0, 0, 0, 0.8);
+
+    --button-bg-focus:      #CACBCD;
+    --button-text-focus:    rgba(0, 0, 0, 0.8);
+
+    --button-bg-down:       #BABBBC;
+    --button-text-down:     rgba(0, 0, 0, 0.9);
+
+    --button-bg-active:     #C0C1C2;
+    --button-text-active:   rgba(0, 0, 0, 0.95);
+}
